@@ -1,3 +1,7 @@
 1. RFID
 2. CMOS sensor
 3. Hawkeye technology (camera)
+
+x----------------------------------------------------------x
+
+camera tracking + gps/bluetooth 
